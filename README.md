@@ -1,7 +1,7 @@
 # stm32_useful_codes
 
 
-#0.0.1
+# 0.0.1
 - It contains a basic I2C scanner code for stm32.
 - The configurations that are used here are:
     - Board used NUCLEO L152RE
